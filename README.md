@@ -1,4 +1,4 @@
-# Shakthi Sivaranjani – Business Analytics Portfolio 👋
+# Shakthi Sivaranjani – Business Analytics & Digital Marketing  Portfolio 👋
 
 Aspiring Business Analyst & Digital Marketer
 
