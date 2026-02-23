@@ -21,7 +21,6 @@ Motivated and detail-oriented aspiring Business Analyst with a background in HR 
 ---
 
 ## 📊 Projects
-Projects will be uploaded here:
 
 - Nykaa Analysis (PPT)
 - Customer demographics & Customer behaviour analysis (Excel)
@@ -40,4 +39,4 @@ Seeking entry-level opportunities in Business Analytics.
 
 ---
 
-⭐ Thank you for visiting my portfolio
+ Thank you for visiting my portfolio
